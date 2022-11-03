@@ -1,2 +1,0 @@
-# cora.github.io
-test
